@@ -1,0 +1,1 @@
+s7 is BSD licenced, but see all the details at the beginning of s7.c
